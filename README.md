@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello I’m Candradevi 👋 with a strong interest in data handling and structured data management.
-I enjoy organizing, validating, and keeping data accurate behind the scenes 🗂️✨
+Hello I’m Candradevi 👋 with a strong interest in data handling and structured data management.<br>
+I enjoy organizing, validating, and keeping data accurate behind the scenes 🗂️✨<br>
 Currently exploring software development, especially how backend systems work with data 💻⚙️
 
 ## 🌐 Socials:
