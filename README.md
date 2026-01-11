@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=depmkeu&color=blue)
+
 # 💫 About Me:
 Hello I’m Candradevi 👋 with a strong interest in data handling and structured data management.<br>
 I enjoy organizing, validating, and keeping data accurate behind the scenes 🗂️✨<br>
@@ -20,6 +22,5 @@ Currently exploring software development, especially how backend systems work wi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=depmkeu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
